@@ -12,7 +12,7 @@ Python model of water exchange on Earth-like planets of mass between 1-10 Earth 
 
 ## How to run the model
 
-1. Assign the desired model paramaters in the file [MOparams.py](https://github.com/bendavid791/MO-cycling-loss/blob/main/MOparams.py).
+1. Assign the desired model paramaters in the file [MOparams.py](https://github.com/bendavid791/MO-cycling-loss/blob/main/MOparams.py). Planetary mass for these rocky worlds can be that of the Earth, smaller than the Earth, or larger than the Earth ("super-Earths"). 
 
 2. Open the file [MO_main.ipynb](https://github.com/bendavid791/MO-cycling-loss/blob/main/MO_main.ipynb) and add your path to the current working directory.
 
