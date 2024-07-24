@@ -1,6 +1,6 @@
 # MO-cycling-loss Model
 
-Python model of water exchange on Earth-like planets of mass between 1-10 Earth masses orbiting an M-dwarf star.
+Python model of water exchange on Earth-like planets of mass between 1-10 Earth masses orbiting an M-dwarf star. The study has been accepted for publication in The Astrophysical journal, and is currently available as [Moore et al.(2024)](https://arxiv.org/abs/2406.19923).
 
 ## Model Requirements
 
